@@ -1,22 +1,24 @@
 ---
 layout: default
-title: 3D Vision
+title: Special Topics in Computer Vision
 ---
 
-# 3D Vision
+# Special Topics in Computer Vision
 
-### Second semester 2017
+### Second semester 2019
 
 Andrés Marrugo, PhD       
 *Universidad Tecnológica de Bolívar*
 
 ##  Aims and Scope
 
-This course covers the main techniques of 3D data acquisition, both passive (stereoscopic vision and multiple views) and active (active triangulation by structured light). The camera calibration process and the use of the geometric constraints of stereo systems are studied in detail in order to obtain adequate correspondences. Finally, the post-processing stages of three-dimensional vision systems are discussed: the representation of 3D images (e.g. through meshes, depth maps etc.), the extraction of characteristics and the recognition of 3D objects.
+This course discusses advanced topics and current research in computer vision. Students are expected to read papers selected from various subareas such as 3D reconstruction, machine vision and inspection, segmentation and grouping, and pattern recognition. Approaches for learning from image data will be covered and include topics from convolutional neural networks, sparse and redundant representations, and others. The course will be a mix of lecture, student presentation and discussion.
 
-In this course the student will obtain proficiency in the fundamentals of stereo vision systems, the calibration of cameras, the geometric restrictions of stereoscopic systems (epipolar line, fundamental matrix, etc.) and carrying out the software implementation in simple applications. In addition, the student will learn the main active techniques of 3D image acquisition (active triangulation by structured light, and the basics of kinect, among others). Finally, different forms of representation of 3D images and their use in problems of computer vision will be presented.
-
-Prior knowledge of this course includes probability, linear algebra, and calculus. Programming experience in MATLAB is desirable, but not required.
+### Course Goals: 
+- Gaining research experience in computer vision.
+- Get exposed to a variety of topics and become familiar with state-of-the-art techniques. 
+- Learn to read and evaluate other people’s work.
+- Get hands dirty on a research project.
 
 
 <!-- This semester course is an introduction to computer vision. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of techniques in computer vision. -->
@@ -52,18 +54,25 @@ Prior knowledge of this course includes probability, linear algebra, and calculu
 
 This is a new course, this website will be updated as we go along.
 
-### Lecture 1: Introduction and Linear Algebra Resfresher 
+### Lecture 1: Introduction 
 
-We will be discussing the main aspects and motivation for 3D computer vision. Also a brief overview of the Linear Algebra involved in the course.
+We will be discussing the general aspects of the course, the topics to be covered and the course project.
 
-- [Lecture 1 slides](https://www.dropbox.com/s/ebnty9s447enxsw/lec01_intro.pptx?dl=0)      
-- [Linear Algebra slides](https://www.dropbox.com/s/7c3ntm6ohw6ld9w/cs131_linalg_review.pptx?dl=0)
+- [Lecture 1 slides]()      
 
 ### Assignment 1
 
-A summary of Linear Algebra and Probability exercises. **Due date:** 2017-08-25.
+Topic preferences. **Due date:** 2019-08-20.
 
 [Assignment 1]({{site.url}}pdfs/a1.pdf)
+[Submission link]()
+
+### Assignment 2
+
+Paper reviews. **Due date:** 2019-08-20.
+
+[Paper]({{site.url}}pdfs/a1.pdf)
+[Submission link]()
 
 ### Lecture 2: Sensors and Image Formation
 
