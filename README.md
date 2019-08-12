@@ -1,30 +1,22 @@
-# Computer Vision
+# Special Topics in Computer Vision
 
-### Second semester 2016
+### Second semester 2019
 
 Andrés Marrugo, PhD
 *Universidad Tecnológica de Bolívar*
 
 ##  Aims and Scope
 
-This semester course is an introduction to computer vision. It is aimed at graduate students in the Faculty of Engineering. We will focus on the practical and theoretical aspects of techniques in computer vision.
+This course discusses advanced topics and current research in computer vision. Students are expected to read papers selected from various subareas such as 3D reconstruction, machine vision and inspection, segmentation and grouping, and pattern recognition. Approaches for learning from image data will be covered and include topics from convolutional neural networks, sparse and redundant representations, and others. The course will be a mix of lecture, student presentation and discussion.
 
-At the end of the lectures, one would be able to:
+Course Goals: 
+- Gaining research experience in computer vision.
+- Get exposed to a variety of topics and become familiar with state-of-the-art techniques. 
+- Learn to read and evaluate other people’s work.
+- Get hands dirty on a research project.
 
-- Have clear idea of challenges in metrology due to increasing trend towards miniaturisation.
-- Understand many different metrological devices and principles and applicability of those devices.
-- Understand the process and provide metrological solution for the improvement of a process.
 
 ## Outline
 
 This is a new course, this website will be updated as we go along.
 
-### Lecture 1: Introduction
-
-We will be discussing the main aspects about metrology and why it is so important in manufacturing. 
-
-[Lecture 1 slides](lectures/Lecture_01.pdf)
-
-#### Optional Reading
-
-- [Optical metrology overview](pdfs/01-optical-metrology-overview.pdf)
