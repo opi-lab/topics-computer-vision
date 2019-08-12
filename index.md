@@ -74,13 +74,15 @@ Paper reviews. **Due date:** 2019-08-20.
 [Paper]({{site.url}}pdfs/a1.pdf)
 [Submission link]()
 
-### Lecture 2: Sensors and Image Formation
+
+
+<!--### Lecture 2: Sensors and Image Formation
 
 We will be studying the main aspects about image formation, the pinhole camera model and image sensors.
 
-- [Lecture 2 slides](https://www.dropbox.com/s/i689m1hk7iuqdm0/lec02_SensorsAndImageFormation.pptx?dl=0) 
-- [Lecture 2  slides - other sensors](https://www.dropbox.com/s/a05dzdgus3febaw/lec02a_OtherSensors.pptx?dl=0)      
-- [Lecture 2 slides - examples](https://www.dropbox.com/s/566dawx0cetpkew/lec02_SensorsAndImageFormation-examples.pptx?dl=0)      
+- [Lecture 2 slides](https://www.dropbox.com/s/i689m1hk7iuqdm0/lec02_SensorsAndImageFormation.pptx?dl=0)
+- [Lecture 2  slides - other sensors](https://www.dropbox.com/s/a05dzdgus3febaw/lec02a_OtherSensors.pptx?dl=0)
+- [Lecture 2 slides - examples](https://www.dropbox.com/s/566dawx0cetpkew/lec02_SensorsAndImageFormation-examples.pptx?dl=0)
 
 #### Reading
 
@@ -100,14 +102,14 @@ Matlab basics and image formation. **Due date:** 2017-09-03.
 
 In this lecture we introduce 2D coordinate transforms.
 
-- [Lecture 3 slides](https://www.dropbox.com/s/2vq3c0jemu94585/lec03-2Dto2DcoordinateTransforms.pdf?dl=0) 
+- [Lecture 3 slides](https://www.dropbox.com/s/2vq3c0jemu94585/lec03-2Dto2DcoordinateTransforms.pdf?dl=0)
 
 ### Lecture 4: 3D-3D Coordinate transforms
 
 In this lecture we introduce 3D coordinate transforms.
 
-- [Lecture 4 slides](https://www.dropbox.com/s/lpdrc7i5y3cpij5/lec04-3Dto3DTransforms.pdf?dl=0) 
-- [3D Rotations](https://www.dropbox.com/s/tk73giauh9c4okl/lec04a-3DRotations.pdf?dl=0) 
+- [Lecture 4 slides](https://www.dropbox.com/s/lpdrc7i5y3cpij5/lec04-3Dto3DTransforms.pdf?dl=0)
+- [3D Rotations](https://www.dropbox.com/s/tk73giauh9c4okl/lec04a-3DRotations.pdf?dl=0)
 - [3D Rotations example](https://www.dropbox.com/s/4y9577e2nzae4cx/lec04-3Dto3DTransforms-examples.pdf?dl=0)
 
 #### Code
@@ -120,7 +122,7 @@ In this lecture we introduce 3D coordinate transforms.
 
 - [J Craig - chap 2 ](https://www.dropbox.com/s/za66l0wj990qrs4/JCraig-Intro-Robotics-chap2.pdf?dl=0)
 
-### Quiz 
+### Quiz
 
 **2017-09-08** Quiz on Coordinate transforms.
 
@@ -262,7 +264,7 @@ In this lecture we will discuss the direct estimation of a camera pose using mat
 
 ### <mark>Projects</mark>
 
-In this course you are required to complete a short project, similar to the assignments, but you are free to choose the approach and the implementation. You will work in teams of two and you will deliver a project report in the IEEE paper format and a 15 minute presentation. 
+In this course you are required to complete a short project, similar to the assignments, but you are free to choose the approach and the implementation. You will work in teams of two and you will deliver a project report in the IEEE paper format and a 15 minute presentation.
 
 **The project is due December 15th.**
 
@@ -316,7 +318,7 @@ In this lecture we will discuss structured light systems.
 
 ### Final exam
 
-The exam is 3 hours and you may use any resources, (MATLAB, Books, slides, etc.). However, provide full answers. These may be done by hand and scanned. Please make everything as clear as possible. 
+The exam is 3 hours and you may use any resources, (MATLAB, Books, slides, etc.). However, provide full answers. These may be done by hand and scanned. Please make everything as clear as possible.
 
 - [Exam]({{site.url}}pdfs/exam-vision-3D.pdf)
 - [Upload link](https://www.dropbox.com/request/l62BNcI5xKkIm7svacno)
@@ -525,4 +527,4 @@ The goal of this assignment is to implement robust homography and fundamental ma
 
 - [Homography estimation](https://www.dropbox.com/s/eqdbgotv1n82yz1/ex1.pdf?dl=0)
 - [Hartley and Zisserman - chapter 4](https://www.dropbox.com/s/ujqmwe6u8vrndr2/Richard%20Hartley%20Andrew%20Zisserman-Multiple%20View%20Geometry%20in%20Computer%20Vision%2C%202nd%20Edition%20%282004%29.pdf?dl=0)
- -->
+ --> -->
