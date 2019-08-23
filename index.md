@@ -58,21 +58,26 @@ This is a new course, this website will be updated as we go along.
 
 We will be discussing the general aspects of the course, the topics to be covered and the course project.
 
-- [Lecture 1 slides]()      
+- [Lecture 1 slides]({{site.url}}pdfs/lec01_intro.pdf)      
 
-### Assignment 1
 
-Topic preferences. **Due date:** 2019-08-20.
+### Paper review 1 - Non local means
 
-[Assignment 1]({{site.url}}pdfs/a1.pdf)
-[Submission link]()
+Paper reviews. **Due date:** 2019-08-27.
 
-### Assignment 2
+[Paper 1]({{site.url}}pdfs/non-local-means-ipol.pdf)
+[Paper 2]({{site.url}}pdfs/Buades-NonLocal)
+[Paper 3]({{site.url}}pdfs/Medical_Image_Analysis_2008_Manjon.pdf)
+[Submission link](https://www.dropbox.com/request/rQ1Uput2BR8agrYnco0Z)
 
-Paper reviews. **Due date:** 2019-08-20.
+### Paper review 2 -  The world's most famous camera calibration method
 
-[Paper]({{site.url}}pdfs/a1.pdf)
-[Submission link]()
+Paper reviews. **Due date:** 2019-09-3.
+
+[Paper 1]({{site.url}}pdfs/PAMI_2000_Zhang.pdf)
+[Paper 2]({{site.url}}pdfs/LM_handout.pdf)
+[Paper 3]({{site.url}}pdfs/)
+[Submission link](https://www.dropbox.com/request/rQ1Uput2BR8agrYnco0Z)
 
 
 
