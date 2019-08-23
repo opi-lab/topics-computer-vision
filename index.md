@@ -59,44 +59,39 @@ This is a new course, this website will be updated as we go along.
 We will be discussing the general aspects of the course, the topics to be covered and the course project.
 
 - [Lecture 1 slides]({{site.url}}pdfs/lec01_intro.pdf)      
+- [Syllabus](syllabus)
 
 
 ### Paper review 1 - Non local means
 
 Paper reviews. **Due date:** 2019-08-27.
 
-[Paper 1]({{site.url}}pdfs/non-local-means-ipol.pdf)   
-
-[Paper 2]({{site.url}}pdfs/Buades-NonLocal.pdf)
-
-[Paper 3]({{site.url}}pdfs/Medical_Image_Analysis_2008_Manjon.pdf)
-
-[Submission link](https://www.dropbox.com/request/rQ1Uput2BR8agrYnco0Z)
+- [Paper 1]({{site.url}}pdfs/non-local-means-ipol.pdf)   
+- [Paper 2]({{site.url}}pdfs/Buades-NonLocal.pdf)
+- [Paper 3]({{site.url}}pdfs/Medical_Image_Analysis_2008_Manjon.pdf)
+- [Submission link](https://www.dropbox.com/request/rQ1Uput2BR8agrYnco0Z)
 
 ### Paper review 2 -  The world's most famous camera calibration method
 
 Paper reviews. **Due date:** 2019-09-3.
 
-[Paper 1]({{site.url}}pdfs/PAMI_2000_Zhang.pdf)
-
-[Paper 2]({{site.url}}pdfs/LM_handout.pdf)
-
-[Paper 3]({{site.url}}pdfs/Optical_Engineering_2011_Vo.pdf)
-
-[Submission link](https://www.dropbox.com/request/NXNqJlTwC2X9mG8EXnLi)
+- [Paper 1]({{site.url}}pdfs/PAMI_2000_Zhang.pdf)
+- [Paper 2]({{site.url}}pdfs/LM_handout.pdf)
+- [Paper 3]({{site.url}}pdfs/Optical_Engineering_2011_Vo.pdf)
+- [Submission link](https://www.dropbox.com/request/NXNqJlTwC2X9mG8EXnLi)
 
 ### Paper review 3 -  
 
 
-[Submission link](https://www.dropbox.com/request/R8Rn5DisX7Tcsmt3vF2Z)
+- [Submission link](https://www.dropbox.com/request/R8Rn5DisX7Tcsmt3vF2Z)
 
 ### Paper review 4 -  
 
-[Submission link](https://www.dropbox.com/request/J73LUNin0YoEZtz1K0fq)
+- [Submission link](https://www.dropbox.com/request/J73LUNin0YoEZtz1K0fq)
 
 ### Paper review 5 -  
 
-[Submission link](https://www.dropbox.com/request/RG3CwgsD6hRZbxTHWQRB)
+- [Submission link](https://www.dropbox.com/request/RG3CwgsD6hRZbxTHWQRB)
 
 <!--### Lecture 2: Sensors and Image Formation
 
