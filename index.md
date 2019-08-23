@@ -67,7 +67,7 @@ Paper reviews. **Due date:** 2019-08-27.
 
 [Paper 1]({{site.url}}pdfs/non-local-means-ipol.pdf)   
 
-[Paper 2]({{site.url}}pdfs/Buades-NonLocal)
+[Paper 2]({{site.url}}pdfs/Buades-NonLocal.pdf)
 
 [Paper 3]({{site.url}}pdfs/Medical_Image_Analysis_2008_Manjon.pdf)
 
