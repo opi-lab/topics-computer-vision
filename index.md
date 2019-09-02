@@ -82,7 +82,9 @@ Paper reviews. **Due date:** 2019-09-3.
 
 ### Paper review 3 -  
 
-
+- [Paper 1]({{site.url}}pdfs/3_DH_2019_Xia.pdf)
+- [Paper 2]({{site.url}}pdfs/3_Opt_Express_2016_Montresor.pdf)
+- [Paper 3]({{site.url}}pdfs/3_Opt_Lett_2017_Xia.pdf)
 - [Submission link](https://www.dropbox.com/request/R8Rn5DisX7Tcsmt3vF2Z)
 
 ### Paper review 4 -  
