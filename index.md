@@ -89,10 +89,16 @@ Paper reviews. **Due date:** 2019-09-3.
 
 ### Paper review 4 -  
 
+- [Paper 1]({{site.url}}pdfs/4_Appl_Opt_2014_Zhou.pdf)
+- [Paper 2]({{site.url}}pdfs/4_Optics_and_Lasers_in_Engineering_2019_Yang.pdf)
+- [Paper 3]({{site.url}}pdfs/)
 - [Submission link](https://www.dropbox.com/request/J73LUNin0YoEZtz1K0fq)
 
 ### Paper review 5 -  
 
+- [Paper 1]({{site.url}}pdfs/5_2010_Lempitsky)
+- [Paper 2]({{site.url}}pdfs/5_Computer_Methods_in_Biomechanics_and_Biomedical_Engineering_Imaging_&_Visualization_2018_Xie)
+- [Paper 3]({{site.url}}pdfs/5_IEEE_Trans._Circuits_Syst._Video_Technol._2018_Kang)
 - [Submission link](https://www.dropbox.com/request/RG3CwgsD6hRZbxTHWQRB)
 
 <!--### Lecture 2: Sensors and Image Formation
