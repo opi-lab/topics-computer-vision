@@ -96,9 +96,9 @@ Paper reviews. **Due date:** 2019-09-3.
 
 ### Paper review 5 -  
 
-- [Paper 1]({{site.url}}pdfs/5_2010_Lempitsky)
-- [Paper 2]({{site.url}}pdfs/5_Computer_Methods_in_Biomechanics_and_Biomedical_Engineering_Imaging_&_Visualization_2018_Xie)
-- [Paper 3]({{site.url}}pdfs/5_IEEE_Trans._Circuits_Syst._Video_Technol._2018_Kang)
+- [Paper 1]({{site.url}}pdfs/5_2010_Lempitsky.pdf)
+- [Paper 2]({{site.url}}pdfs/5_Computer_Methods_in_Biomechanics_and_Biomedical_Engineering_Imaging_&_Visualization_2018_Xie.pdf)
+- [Paper 3]({{site.url}}pdfs/5_IEEE_Trans._Circuits_Syst._Video_Technol._2018_Kang.pdf)
 - [Submission link](https://www.dropbox.com/request/RG3CwgsD6hRZbxTHWQRB)
 
 <!--### Lecture 2: Sensors and Image Formation
