@@ -101,6 +101,20 @@ Paper reviews. **Due date:** 2019-09-3.
 - [Paper 3]({{site.url}}pdfs/5_IEEE_Trans._Circuits_Syst._Video_Technol._2018_Kang.pdf)
 - [Submission link](https://www.dropbox.com/request/RG3CwgsD6hRZbxTHWQRB)
 
+### Paper review 6 -  
+
+- [Paper 1]({{site.url}}pdfs/6_mokji2007.pdf)
+- [Paper 2]({{site.url}}pdfs/6_Nature_Publishing_Group_2016_Cheng.pdf)
+- [Paper 3]({{site.url}}pdfs/6_yang2013.pdf)
+- [Submission link](https://www.dropbox.com/request/GeICmluZmu0Dlwaa0ZSK)
+
+
+### Project submission
+
+The project final report is due Friday, December 6. Use the following link to upload the paper (in IEEE template or similar) and a 3 minute video of yourselves explaining the project. 
+
+- [Submission link](https://www.dropbox.com/request/x6HF2wf7W0U8OzZcRTkd)
+
 <!--### Lecture 2: Sensors and Image Formation
 
 We will be studying the main aspects about image formation, the pinhole camera model and image sensors.
